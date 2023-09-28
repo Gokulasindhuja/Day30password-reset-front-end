@@ -2,6 +2,7 @@
 
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
+https://github.com/Gokulasindhuja/Day30password-reset-front-end/edit/main/README.md#getting-started-with-create-react-app
 
 Available Scripts
 In the project directory, you can run:
